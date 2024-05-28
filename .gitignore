@@ -16,3 +16,4 @@ env/
 # Output files
 *.npy
 *.png
+.DS_Store
